@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - MARELLA VENKATA SATYA ARAVIND</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: rgb(225, 222, 222);
+            padding: 20px;
+            gap: 20px;
+        }
+        .header img {
+            width: 130px;
+            height: 130px;
+            object-fit: cover;
+            border-radius: 10px;
+            border: 2px solid #555;
+        }
+        .header-text {
+            text-align: center;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        h3, h4 {
+            margin-bottom: 5px;
+        }
+        hr {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <img src="frontend/my_photo.jpg" alt="Your Photo"> <!-- Replace with your image -->
+        <div class="header-text">
+            <h2>MARELLA VENKATA SATYA ARAVIND</h2>
+            <h4>
+                <p>email: satyaaravind2004@gmail.com | phone: +91 6304072636 <br>
+                linkedin: marella-venkata-satya-aravind-4973a4275</p>
+            </h4>
+        </div>
+    </div>
+
+    <hr>
+
+    <div>
+        <h4 style="background-color:rgb(225, 222, 222);">Career Objective:</h4>
+        <p>To succeed in an environment of growth and excellence and earn a job which provides me 
+        satisfaction and self-development and helps me to achieve organizational goals.</p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color:rgb(225, 222, 222);">Education:</h3>
+        <table>
+            <tr>
+                <th>Qualification</th>
+                <th>Institute/Organisation Name</th>
+                <th>Marks Obtained</th>
+            </tr>
+            <tr>
+                <td>10th</td>
+                <td>Viswasanthi High School</td>
+                <td>596/600</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>Sri Chaitanya Junior College</td>
+                <td>61%</td>
+            </tr>
+            <tr>
+                <td>Bachelor of Technology</td>
+                <td>PVP Siddhartha Institute of Technology</td>
+                <td>7.2/10</td>
+            </tr>
+        </table>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color:rgb(225, 222, 222);">Internship Experience</h3>
+        <h4>Andhra Pradesh Power Generation Corporation Limited (APGENCO)</h4>
+        <p>Gained the practical knowledge about power generation processes and thermal operations</p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color:rgb(225, 222, 222);">Technical Skills</h3>
+        <p>• Core Subjects: Digital Logic Design, Microprocessor and Microcontrollers, Internet of Things</p>
+        <p>• Programming Languages: VHDL, Verilog, Python, Java, C</p>
+        <p>• Tools: Multisim, Arduino IDE, Xilinx, MATLAB</p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color: rgb(225, 222, 222);">Project:</h3>
+        <h4>IoT Health Monitoring System using Arduino/ESP32:</h4>
+        <p>• Developed an IoT system for real-time health monitoring (heart rate, temperature, blood pressure) using Arduino/ESP32 and sensors.</p>
+        <p>• Integrated Wi-Fi/Bluetooth for data transmission to cloud platforms (ThingSpeak, Blynk) for monitoring and alerting.</p>
+
+        <h4>Hospital Management System (Java):</h4>
+        <p>• Developed a Hospital Management System to automate hospital operations, including employee, doctor, nurse, patient, billing, and complaint management.</p>
+        <p>• Implemented a GUI-based interface for efficient data storage, retrieval, and updates through user-friendly menu-driven designs.</p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color:rgb(225, 222, 222);">Certifications:</h3>
+        <h4>• <a href="https://drive.google.com/file/d/1kY_nbjFtHp58MVMWVYh0G8uNEDCxuI6G/view?usp=drive_link">AI Associate</a></h4>
+        <h4>• <a href="https://drive.google.com/file/d/1WTwl6do4054r0FwEi7zM4gNxgV0Jp7jX/view?usp=drive_link">Basics of Python - Infosys Springboard</a></h4>
+        <h4>• <a href="https://drive.google.com/file/d/1WYrTIxvgGCOdhm2-blPHbbf__qxAVkto/view?usp=drive_link">BYTS DSA using Java</a></h4>
+        <h4>• <a href="https://drive.google.com/file/d/1WXp2JJkXD_XE4soyqsG3bc_k2O7Cs2gI/view?usp=drive_link">NPTEL DSA using Java</a></h4>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3 style="background-color:rgb(225, 222, 222);">Extracurricular Activities:</h3>
+        <p>• Active participant in sports events, showcasing teamwork, leadership, and time management skills.</p>
+        <p>• Participated in essay writing competitions, showcasing creativity and communication skills.</p>
+        <p>• Worked as an event coordinator in college, managing and executing various technical and cultural events.</p>
+    </div>
+
+</body>
+</html>
